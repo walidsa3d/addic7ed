@@ -1,0 +1,23 @@
+{
+  "name": "addic7ed",
+  "version": "1.0.0",
+  "description": "Get subtitles from addic7ed",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "addic7ed",
+    "subtitles",
+    "series",
+    "shows",
+    "srt",
+    "tv",
+    "scraper"
+  ],
+  "author": "Walid Saad",
+  "license": "MIT"
+}
